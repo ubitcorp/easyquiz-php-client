@@ -1,5 +1,5 @@
 {
-    "name": "ubircorp/easyquiz-php-client",
+    "name": "ubitcorp/easyquiz-php-client",
     "description": "PHP client for easyquiz.co API",
     "type": "library",
     "license": "MIT",

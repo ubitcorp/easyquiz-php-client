@@ -1,0 +1,19 @@
+{
+    "name": "ubircorp/easyquiz-php-client",
+    "description": "PHP client for easyquiz.co API",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["easyquiz","online-examination-platform","examination","api","client"],
+    "homepage": "https://easyquiz.co",
+    "authors": [
+        {
+            "name": "sergentemel",
+            "email": "tmlsergen@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ubitcorp\\": "src/"
+        }
+    }
+}
